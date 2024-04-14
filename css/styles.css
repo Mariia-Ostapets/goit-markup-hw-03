@@ -101,7 +101,7 @@ img {
 .hero {
   padding-top: 188px;
   padding-right: 331px;
-  padding-bottom: 292px;
+  padding-bottom: 188px;
   padding-left: 331px;
 }
 .page-hero-name {
@@ -127,7 +127,6 @@ img {
   width: 169px;
   height: 56px;
   margin-top: 48px;
-  margin-bottom: 188px;
   margin-left: 150px;
 }
 .page-hero-button:hover,
